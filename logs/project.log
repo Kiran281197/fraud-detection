@@ -1,0 +1,45 @@
+2026-05-08 22:49:22,885 - INFO - Attempting to load data from C:\Users\1997k\Desktop\Learning\Practise\Fraud Detection\data\raw\card_transdata.csv
+2026-05-08 22:49:23,603 - INFO - Data loaded successfully with shape (1000000, 8)
+2026-05-08 22:49:23,603 - INFO - Checking if fraud column exist
+2026-05-08 22:49:23,603 - INFO - Target column exist : fraud
+2026-05-08 22:49:23,603 - INFO - Checking for duplicates
+2026-05-08 22:49:24,005 - INFO - Found 0 duplicates
+2026-05-08 22:49:24,005 - INFO - checking for null values
+2026-05-08 22:49:24,013 - INFO - Found 0 missing values
+2026-05-08 22:49:24,013 - INFO - checking if dataset is empty
+2026-05-08 22:49:24,013 - INFO - dataset is not empty
+2026-05-08 22:49:24,013 - INFO - Dataset Shape : (1000000, 8)
+2026-05-08 22:49:24,039 - INFO - distance_from_home : True
+2026-05-08 22:49:24,039 - INFO - ratio_to_median_purchase_price : True
+2026-05-08 22:49:24,039 - INFO - repeat_retailer : True
+2026-05-08 22:49:24,039 - INFO - used_chip : True
+2026-05-08 22:49:24,039 - INFO - used_pin_number : True
+2026-05-08 22:49:24,039 - INFO - online_order : True
+2026-05-08 22:49:24,039 - INFO - fraud : True
+2026-05-08 22:49:24,048 - INFO - fraud distribution : 0.087403
+2026-05-08 22:49:24,048 - INFO - Not_fraud distribution : 0.912597
+2026-05-08 22:49:24,048 - INFO - Attempting to save the processed data into C:\Users\1997k\Desktop\Learning\Practise\Fraud Detection\data\processed\processed_data.csv
+2026-05-08 22:49:30,129 - INFO - processed data has been saved successfully in C:\Users\1997k\Desktop\Learning\Practise\Fraud Detection\data\processed\processed_data.csv
+2026-05-08 22:50:00,508 - INFO - Attempting to load data from C:\Users\1997k\Desktop\Learning\Practise\Fraud Detection\data\raw\card_transdata.csv
+2026-05-08 22:50:01,235 - INFO - Data loaded successfully with shape (1000000, 8)
+2026-05-08 22:50:01,235 - INFO - Checking if fraud column exist
+2026-05-08 22:50:01,237 - INFO - Target column exist : fraud
+2026-05-08 22:50:01,237 - INFO - Checking for duplicates
+2026-05-08 22:50:01,659 - INFO - Found 0 duplicates
+2026-05-08 22:50:01,659 - INFO - checking for null values
+2026-05-08 22:50:01,663 - INFO - Found 0 missing values
+2026-05-08 22:50:01,663 - INFO - checking if dataset is empty
+2026-05-08 22:50:01,663 - INFO - dataset is not empty
+2026-05-08 22:50:01,663 - INFO - Dataset Shape : (1000000, 8)
+2026-05-08 22:50:01,663 - INFO - distance_from_home : True
+2026-05-08 22:50:01,663 - INFO - ratio_to_median_purchase_price : True
+2026-05-08 22:50:01,663 - INFO - repeat_retailer : True
+2026-05-08 22:50:01,663 - INFO - used_chip : True
+2026-05-08 22:50:01,663 - INFO - used_pin_number : True
+2026-05-08 22:50:01,663 - INFO - online_order : True
+2026-05-08 22:50:01,663 - INFO - fraud : True
+2026-05-08 22:50:01,675 - INFO - fraud distribution : 0.087403
+2026-05-08 22:50:01,675 - INFO - Not_fraud distribution : 0.912597
+2026-05-08 22:50:01,675 - INFO - Attempting to save the processed data into C:\Users\1997k\Desktop\Learning\Practise\Fraud Detection\data\processed\processed_data.csv
+2026-05-08 22:50:07,520 - INFO - processed data has been saved successfully in C:\Users\1997k\Desktop\Learning\Practise\Fraud Detection\data\processed\processed_data.csv
+2026-05-08 22:50:08,345 - INFO - Removed Unnamed: 0 successfully
